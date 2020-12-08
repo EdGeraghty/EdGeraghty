@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a Senior Technologist @privacyint
+
+I mostly work in Java and Bashscript these days, but have been known to dabble in JavaScript, PHP, Python, and others.
+
+My prime focus is Security, both Technical and Organisational.
+
+Contact me on Matrix: @ed:geraghty.london
+
 <!--
 **EdGeraghty/EdGeraghty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
