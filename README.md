@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Senior Technologist [@privacyint](privacyinternational.org)
+I'm a Senior Technologist [@privacyint](https://privacyinternational.org)
 
 I mostly work in Java and Bashscript these days, but have been known to dabble in JavaScript, PHP, Python, and others.
 
