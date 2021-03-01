@@ -6,7 +6,7 @@ I mostly work in Java and Bashscript these days, but have been known to dabble i
 
 My prime focus is Security, both Technical and Organisational.
 
-Contact me on Matrix: [@ed:geraghty.london](https://matrix.to/#/@ed:geraghty.london)
+Contact me on Matrix: [@ed:geraghty.london](https://matrix.to/#/@ed:geraghty.london) or [@edg:privacyinternational.org](https://matrix.to/#/@edg:privacyinternational.org)
 
 <!--
 **EdGeraghty/EdGeraghty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
