@@ -2,7 +2,7 @@
 
 I'm a Senior Technologist [@privacyint](https://privacyinternational.org)
 
-I mostly work in Java and Bashscript these days, but have been known to dabble in JavaScript, PHP, Python†, and others.
+I mostly work in Java and Bashscript these days, but have been known to dabble in others†.
 
 My prime focus is Security, both Technical and Organisational.
 
