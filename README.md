@@ -6,7 +6,7 @@ I mostly work in Java and Bashscript these days, but have been known to dabble i
 
 My prime focus is Security, both Technical and Organisational.
 
-Contact me on [my personal Matrix account](https://matrix.to/#/@ed:geraghty.london) or [my work Matrix account](https://matrix.to/#/@edg=40privacyinternational:privacyinternational.org)
+Contact me on [my personal Matrix account](https://matrix.to/#/@ed:geraghty.london) or [my work Matrix account](https://matrix.to/#/@edg=40privacyinternational.org:privacyinternational.org)
 
 
 † please don't make me work in Python
