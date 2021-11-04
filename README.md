@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a Senior Technologist [@privacyint](https://privacyinternational.org)
+I'm a Senior Technologist [@privacyint](https://privacyinternational.org), programmer by trade.
 
 I mostly work in Java and Bashscript these days, but have been known to dabble in others†.
 
-My prime focus is Security, both Technical and Organisational.
+My prime focus is Security, both Technical and Organisational - I get excited by novel approaches to daily problems.
 
 Contact me on [my personal Matrix account](https://matrix.to/#/@ed:geraghty.london) or [my work Matrix account](https://matrix.to/#/@edg=40privacyinternational.org:privacyinternational.org)
 
