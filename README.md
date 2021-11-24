@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm a Senior Technologist [@privacyint](https://privacyinternational.org) - originally a programmer by trade, who knows what I am these days :)
-
 I mostly work in Java and Bashscript nowadays, but as my Github will attest, I do dabble in others†
 
 My prime focus is Security, both Technical and Organisational - I get excited by novel approaches to daily problems.
