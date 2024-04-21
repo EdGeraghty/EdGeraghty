@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm an annoyance-driver developer. Why spend 5 minutes doing something yourself when you can spend a couple of weeks trying to automate it, right?
+
 Contact me on [my personal Matrix account](https://matrix.to/#/@ed:geraghty.family) or [my work Matrix account](https://matrix.to/#/@edg=40privacyinternational.org:privacyinternational.org)
 
 <!--
